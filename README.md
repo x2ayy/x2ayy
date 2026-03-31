@@ -1,4 +1,4 @@
-# Hey guys comedyshortsgamer here!
+# Hey guys ComedyShortsGamer here!
 
 ### 🛠 Projects & Experiments
 - 🐍 **Python Tinkering** - Debugging "Cheesecake" logic errors.
