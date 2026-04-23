@@ -1,9 +1,4 @@
-# Hey guys ComedyShortsGamer here!
-
-### 🛠 Projects & Experiments
-- 🐍 **Putting snakes in my butt** - Oh yeah.
-- ⚙️ **Digging in my butt** - ...Same old.
-
+# Hey guys Not ComedyShortsGamer here!
 ---
 
 ```print("Hello Chud!")```
